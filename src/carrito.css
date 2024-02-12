@@ -22,8 +22,7 @@ header{
 
 main{
     margin-top: 0px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 450px;
 }
 
 main form{
@@ -68,6 +67,10 @@ main form{
         display: flex;
         flex-direction: column;
         padding-top: 5px;
+    }
+    main{
+        margin-top: 250px;
+        margin-left: auto;
     }
     .Video{
         display: none;  /*Esto lo hago para si se utiliza la pagina web desde el movil, que no se vea el video, ya que no se verá con una buena resolución*/
